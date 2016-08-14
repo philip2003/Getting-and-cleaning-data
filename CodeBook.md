@@ -6,7 +6,7 @@ Data Source:
 
 #### UCI Machine Learning repository: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/da#### tasets/Human+Activity+Recognition+Using+Smartphones).
 -----------------------------------------------
-#### Data Set
+#### _Data Set_
 
 Abstract: Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
@@ -73,7 +73,7 @@ Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ort
 
 -----------------------------------------------
 
-#### Data structure
+#### Data structure:
 
 The dataset includes the following files:
 
@@ -85,7 +85,8 @@ The dataset includes the following files:
 'train/y_train.txt': Training labels.
 'test/X_test.txt': Test set.
 'test/y_test.txt': Test labels.
-The following files are available for the train and test data. Their descriptions are equivalent.
+
+The following files are available for the train and test data:
 
 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
 
@@ -95,7 +96,7 @@ The following files are available for the train and test data. Their description
 
 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.
 
-#### Feature selection
+#### Feature selection:
 
 I refer you to the README and features.txt files in the original dataset to learn more about the feature selection for this dataset. And there you will find the follow description:
 

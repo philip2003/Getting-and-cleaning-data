@@ -32,8 +32,8 @@ From the data set in step 4, creates a second, independent tidy data set with th
 activity and each subject.
 
 ## Solution steps:
-1.  Clone/copy repo
-2.  Download data
+1.  Clone repo
+2.  Download assignement data
 3.  Copy data to the cloned repo
 4.  Set working directory to repo root
 5.  Run analysis

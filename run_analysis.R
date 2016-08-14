@@ -1,6 +1,6 @@
-# Stage 1
+# Assignment Task - Stage 1
 
-# Input Data
+# Input Training and Testing Data
 training = read.csv("UCI HAR Dataset/train/X_train.txt", sep="", header=FALSE)
 training[,562] = read.csv("UCI HAR Dataset/train/Y_train.txt", sep="", header=FALSE)
 training[,563] = read.csv("UCI HAR Dataset/train/subject_train.txt", sep="", header=FALSE)
@@ -44,7 +44,7 @@ tidy_data[,89] = NULL
 write.table(tidy_data, "tidy_data.txt", sep="\t", row.names=FALSE)
 tidy_data
 
-# Stage 2
+# Assignment Task - Stage 2
 
 if (!require("data.table")) {
   install.packages("data.table")

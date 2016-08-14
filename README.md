@@ -44,4 +44,5 @@ The CodeBook for this project can be found [here](CodeBook.md). It explains the 
 * Clone repo
 * Download assignement data
 * Set working directory to repo
-* Run analysis R script
+* Run analysis run_analysis.R script
+* print data to screen

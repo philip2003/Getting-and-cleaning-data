@@ -45,4 +45,4 @@ The CodeBook for this project can be found [here](CodeBook.md). It explains the 
 * Download assignement data
 * Set working directory to repo
 * Run analysis run_analysis.R script
-* print data to screen
+* tidy_data.txt saved to local repo directory

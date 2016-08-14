@@ -1,12 +1,8 @@
 # Code Book
-========
 
 Variable, data, and transformations are described in this file.
 
-Raw data collection
--------------------
-
-### Collection
+### Data Collection
 
 Raw data are obtained from UCI Machine Learning repository: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 

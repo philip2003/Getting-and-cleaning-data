@@ -33,7 +33,7 @@ activity and each subject.
 
 ## CodeBook
 
-The CodeBook for this project can be found [here](CodeBook.md)). It explains the transformations performed and the resulting data and variables in detail.
+The CodeBook for this project can be found [here](CodeBook.md). It explains the transformations performed and the resulting data and variables in detail.
 
 ## Solution steps:
 1.  Clone repo

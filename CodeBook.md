@@ -3,8 +3,7 @@
 Variable, data, and transformations are described in this file.
 -----------------------------------------------
 #### Data Source:
-UCI Machine Learning repository:
-[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/da#### tasets/Human+Activity+Recognition+Using+Smartphones).
+UCI Machine Learning repository:[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/da#### tasets/Human+Activity+Recognition+Using+Smartphones).
 -----------------------------------------------
 #### Data Set
 Abstract: Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.

@@ -31,10 +31,14 @@ You should create one R script called run_analysis.R that does the following:
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each 
 activity and each subject.
 
+## CodeBook
+
+The CodeBook for this project can be found here. It explains the transformations performed and the resulting data and variables in detail.
+
 ## Solution steps:
 1.  Clone repo
 2.  Download assignement data
 3.  Copy data to the cloned repo
-4.  Set working directory to repo root
-5.  Run analysis
+4.  Set working directory to repo
+5.  Run analysis scripts - Script a and Script b
 6.  Output - XXXXXX

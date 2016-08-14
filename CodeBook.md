@@ -35,8 +35,6 @@ Check the README.txt file for further details about this dataset.
 
 A video of the experiment including an example of the 6 recorded activities with one of the participants can be seen in the following link: [Web Link](https://youtu.be/XOEN9W05_4A)
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/XOEN9W05_4A" frameborder="0" allowfullscreen></iframe>
-
 An updated version of this dataset can be found at [Web Link](http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions). It includes labels of postural transitions between activities and also the full raw inertial signals instead of the ones pre-processed into windows.
 
 #### Attribute Information:
@@ -47,20 +45,22 @@ For each record in the dataset it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-##### Attribute Information:
+#### Relevant Papers:
 
-For each record in the dataset it is provided:
-* Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
-* Triaxial Angular velocity from the gyroscope.
-* A 561-feature vector with time and frequency domain variables.
-* Its activity label.
-* An identifier of the subject who carried out the experiment. 
+Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012 
 
-See Readme file into 'UCI HAR Dataset' for more information.
+Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra, Jorge L. Reyes-Ortiz. Energy Efficient Smartphone-Based Activity Recognition using Fixed-Point Arithmetic. Journal of Universal Computer Science. Special Issue in Ambient Assisted Living: Home Care. Volume 19, Issue 9. May 2013
+
+Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. 4th International Workshop of Ambient Assited Living, IWAAL 2012, Vitoria-Gasteiz, Spain, December 3-5, 2012. Proceedings. Lecture Notes in Computer Science 2012, pp 216-223. 
+
+Jorge Luis Reyes-Ortiz, Alessandro Ghio, Xavier Parra-Llanas, Davide Anguita, Joan Cabestany, Andreu Català. Human Activity and Motion Disorder Recognition: Towards Smarter Interactive Cognitive Environments. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
+
+#### Citation Request:
+
+Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
 
 
-Raw Data transformation
--------------------
+#### Data Analysis Glossary
 
 The raw data sets are processed with the script run_analysis.R script to create a tidy data set.
 
@@ -81,8 +81,7 @@ __Create a tidy data set__
 From the intermediate data set is created a final tidy data set where numeric
 variables are averaged for each activity and each subject.
 
-Tidy data set
--------------------
+#### Tidy Data Set
 
 ### Variables
 

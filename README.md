@@ -31,12 +31,10 @@ You should create one R script called run_analysis.R that does the following:
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each 
 activity and each subject.
 
-## Process steps:
-
-
-clone this repository
-download compressed raw data
-unzip raw data and copy the directory 'UCI HAR Dataset' to the cloned repository root directory
-open a R console and set the working directory to the repository root
-run run_analysis.R script
-In the repository root directory you find the file 'sensordata_avg_by_subject.txt'
+## Solution steps:
+1.  Clone/copy repo
+2.  Download data
+3.  Copy data to the cloned repo
+4.  Set working directory to repo root
+5.  Run analysis
+6.  Output - XXXXXX

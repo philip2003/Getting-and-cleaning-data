@@ -4,7 +4,7 @@
 Variable, data, and transformations are described in this file.
 -----------------------------------------------
 ## Data Source:
-UCI Machine Learning repository: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+#### UCI Machine Learning repository: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 -----------------------------------------------
 #### Data Set
 Abstract: Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
@@ -35,7 +35,7 @@ Check the README.txt file for further details about this dataset.
 
 A video of the experiment including an example of the 6 recorded activities with one of the participants can be seen in the following link: [Web Link](https://youtu.be/XOEN9W05_4A)
 
-An updated version of this dataset can be found at [Web Link](http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions). It includes labels of postural transitions between activities and also the full raw inertial signals instead of the ones pre-processed into windows.
+#### An updated version of this dataset can be found at [Web Link](http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions). It includes labels of postural transitions between activities and also the full raw inertial signals instead of the ones pre-processed into windows.
 -----------------------------------------------
 #### Attribute Information:
 For each record in the dataset it is provided: 

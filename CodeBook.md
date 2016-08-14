@@ -88,9 +88,9 @@ __Get abel variables appropriately__
 Labels given from the original collectors were changed to get valid/more descriptive R names 
 
 __Create a tidy data set__
-From the intermediate data set is created a final tidy data set where numeric
-variables are averaged for each activity and each subject.
+From the intermediate data set is created a final tidy data set where numeric variables are averaged for each activity and each subject.
 -----------------------------------------------
+
 #### Tidy Data Set
 Variables
 The tidy data set contains:

@@ -42,5 +42,5 @@ The CodeBook for this project can be found [here](CodeBook.md).
 * Clone repo
 * Download assignement data
 * Set working directory to repo
-* Run run_analysis.R script (Two stages)
+* Run run_analysis.R script
 * tidy_data.txt saved to local repo directory

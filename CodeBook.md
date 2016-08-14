@@ -4,24 +4,25 @@
 #### Variable, data, and transformations are described in this file.
 -----------------------------------------------
 #### Data Source:
-#### UCI Machine Learning repository: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+#### UCI Machine Learning repository:
+#### [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/da#### tasets/Human+Activity+Recognition+Using+Smartphones).
 -----------------------------------------------
 #### Data Set
 #### Abstract: Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily #### living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 -----------------------------------------------
 #### Data Set Characteristics: Multivariate, Time-Series
-Number of Instances:10299
-Area: Computer
-Attribute Characteristics: N/A
-Number of Attributes:561
-Date Donated 2012-12-10
-Associated Tasks: Classification, Clustering
-Missing Values? N/A
-Number of Web Hits:310269
-Source:
-Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
-1 - Smartlab - Non-Linear Complex Systems Laboratory
-DITEN - Università degli Studi di Genova, Genoa (I-16145), Italy. 
+#### Number of Instances:10299
+#### Area: Computer
+#### Attribute Characteristics: N/A
+#### Number of Attributes:561
+#### Date Donated 2012-12-10
+#### Associated Tasks: Classification, Clustering
+#### Missing Values? N/A
+#### Number of Web Hits:310269
+#### Source:
+#### Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
+#### 1 - Smartlab - Non-Linear Complex Systems Laboratory
+#### DITEN - Università degli Studi di Genova, Genoa (I-16145), Italy. 
 2 - CETpD - Technical Research Centre for Dependency Care and Autonomous Living
 Universitat Politècnica de Catalunya (BarcelonaTech). Vilanova i la Geltrú (08800), Spain
 activityrecognition '@' smartlab.ws

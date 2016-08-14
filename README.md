@@ -36,12 +36,11 @@ activity and each subject.
 
 ## CodeBook
 
-The CodeBook for this project can be found [here](CodeBook.md). It explains the transformations performed and the resulting data and variables in detail.
+The CodeBook for this project can be found [here](CodeBook.md).
 
 ## Solution steps:
-* Install R and RStudio
 * Clone repo
 * Download assignement data
 * Set working directory to repo
-* Run analysis run_analysis.R script
+* Run run_analysis.R script (Two stages)
 * tidy_data.txt saved to local repo directory

@@ -14,13 +14,13 @@ Abstract: Human Activity Recognition database built from the recordings of 30 su
 -----------------------------------------------
 #### _Data Set Characteristics: Multivariate, Time-Series_
 Number of Instances:10299
-Area: Computer
-Attribute Characteristics: N/A
-Number of Attributes:561
-Date Donated 2012-12-10
-Associated Tasks: Classification, Clustering
-Missing Values? N/A
-Number of Web Hits: 310269
+* Area: Computer
+* Attribute Characteristics: N/A
+* Number of Attributes:561
+* Date Donated 2012-12-10
+* Associated Tasks: Classification, Clustering
+* Missing Values? N/A
+* Number of Web Hits: 310269
 
 Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
 1 - Smartlab - Non-Linear Complex Systems Laboratory

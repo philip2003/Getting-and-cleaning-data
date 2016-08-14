@@ -1,9 +1,9 @@
 # Code Book
-## Coursera Week 4 Assignment 4 - Getting and Cleaning Data
+#### Coursera Week 4 Assignment 4 - Getting and Cleaning Data
 
 Variable, data, and transformations are described in this file.
 -----------------------------------------------
-## Data Source:
+#### Data Source:
 #### UCI Machine Learning repository: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 -----------------------------------------------
 #### Data Set

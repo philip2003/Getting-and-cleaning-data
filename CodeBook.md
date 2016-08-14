@@ -2,17 +2,17 @@
 #### Coursera Week 4 Assignment 4 - Getting and Cleaning Data
 
 -----------------------------------------------
-Data Source:
+_Data Source:_
 
 #### UCI Machine Learning repository: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/da#### tasets/Human+Activity+Recognition+Using+Smartphones).
 -----------------------------------------------
-#### _Data Set_
+#### _Data Set:_
 
 Abstract: Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
 
 -----------------------------------------------
-#### Data Set Characteristics: Multivariate, Time-Series
+#### _Data Set Characteristics: Multivariate, Time-Series_
 Number of Instances:10299
 Area: Computer
 Attribute Characteristics: N/A
@@ -31,7 +31,7 @@ activityrecognition '@' smartlab.ws
 
 
 -----------------------------------------------
-#### Data Set Information:
+#### _Data Set Information:_
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
 The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
@@ -43,7 +43,7 @@ An updated version of this dataset can be found at [Web Link]. It includes label
 
 
 -----------------------------------------------
-#### Attribute Information:
+#### _Attribute Information:_
 
 For each record in the dataset it is provided: 
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration. 
@@ -54,7 +54,7 @@ For each record in the dataset it is provided:
 
 
 -----------------------------------------------
-#### Relevant Papers:
+#### _Relevant Research Papers:_
 
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012 
 
@@ -67,13 +67,13 @@ Jorge Luis Reyes-Ortiz, Alessandro Ghio, Xavier Parra-Llanas, Davide Anguita, Jo
 
 
 -----------------------------------------------
-#### Citation Request:
+#### _Citation Request:_
 
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
 
 -----------------------------------------------
 
-#### Data structure:
+#### _Data structure:_
 
 The dataset includes the following files:
 
@@ -96,7 +96,7 @@ The following files are available for the train and test data:
 
 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.
 
-#### Feature selection:
+#### _Feature selection:_
 
 I refer you to the README and features.txt files in the original dataset to learn more about the feature selection for this dataset. And there you will find the follow description:
 

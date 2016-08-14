@@ -35,6 +35,8 @@ Check the README.txt file for further details about this dataset.
 
 A video of the experiment including an example of the 6 recorded activities with one of the participants can be seen in the following link: [Web Link](https://youtu.be/XOEN9W05_4A)
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/XOEN9W05_4A" frameborder="0" allowfullscreen></iframe>
+
 An updated version of this dataset can be found at [Web Link](http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions). It includes labels of postural transitions between activities and also the full raw inertial signals instead of the ones pre-processed into windows.
 
 #### Attribute Information:

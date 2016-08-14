@@ -2,7 +2,7 @@
 #### Coursera Week 4 Assignment 4 - Getting and Cleaning Data
 
 -----------------------------------------------
-_Data Source:_
+####_Data Source:_
 
 #### UCI Machine Learning repository: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/da#### tasets/Human+Activity+Recognition+Using+Smartphones).
 -----------------------------------------------
